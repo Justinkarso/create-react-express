@@ -28,7 +28,7 @@ const copyFolder = (source, target) => {
 copyFolder(path.join(__dirname, "template"), folderName);
 console.log(
   "\x1b[36m%s\x1b[0m",
-  "👏 Added create-react-express project files 👏"
+  "👏 Added react-express-tailwind project files 👏"
 ); //cyan
 console.log("\x1b[36m%s\x1b[0m", ""); //cyan
 console.log("\x1b[36m%s\x1b[0m", "To run the project:"); //cyan

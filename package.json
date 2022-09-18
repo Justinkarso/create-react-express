@@ -1,6 +1,10 @@
 {
-  "name": "create-react-express",
+  "name": "react-express-tailwind",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Justinkarso/create-react-express.git"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +14,6 @@
   "author": "justinkarso",
   "license": "ISC",
   "bin": {
-    "create-react-express": "bin/index.js"
+    "react-express-tailwind": "bin/index.js"
   }
 }
