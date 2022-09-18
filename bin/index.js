@@ -1,13 +1,7 @@
 #! /usr/bin/env node
 const fs = require("fs");
 const path = require("path");
-const { exec } = require("child_process");
-
-// when user runs npx command it will clone github repo into first argument folder
-
 const args = process.argv.slice(2);
-const repo = "https://github.com/Justinkarso/react-express-starter.git";
-
 const folderName = args[0] || "react-express-starter";
 
 const copyFolder = (source, target) => {

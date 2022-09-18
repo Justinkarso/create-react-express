@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Justinkarso/create-react-express.git"
+    "url": "https://github.com/Justinkarso/react-express-tailwind.git"
   },
   "description": "",
   "main": "index.js",
