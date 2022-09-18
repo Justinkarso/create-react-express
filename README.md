@@ -1,4 +1,4 @@
-# Create react-express-tailwind App
+# react-express-tailwind
 
 Create a react app with an express server and tailwindcss.
 
